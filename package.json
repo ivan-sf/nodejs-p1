@@ -1,0 +1,14 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "666": "node server.js"
+  },
+  "author": "Bowie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
